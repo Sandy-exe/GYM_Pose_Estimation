@@ -1,0 +1,26 @@
+Research Papers:
+1) Machine Learning-Based Exercise Posture Recognition System Using MediaPipe Pose Estimation Framework
+   LINK: https://ieeexplore.ieee.org/document/10112726
+
+2) Human Pose Estimation using Artificial Intelligence with Virtual Gym Tracker
+   LINK: https://ieeexplore-ieee-org.egateway.chennai.vit.ac.in/document/10112064
+
+3) Deep Learning-Based GYM Monitoring System using YOLOv5 and Pose Estimation Algorithm
+    LINK: https://ieeexplore-ieee-org.egateway.chennai.vit.ac.in/document/10394921    
+
+4) Robust Intelligent Posture Estimation for an AI Gym Trainer using Mediapipe and OpenCV
+    LINK: https://ieeexplore-ieee-org.egateway.chennai.vit.ac.in/document/10127264
+
+5)  AI Based Gym Trainer and Diet Recommendation System
+    LINK: https://ieeexplore-ieee-org.egateway.chennai.vit.ac.in/document/10270066
+
+6) Smart gym trainer using Human pose estimation
+    LINK: https://ieeexplore-ieee-org.egateway.chennai.vit.ac.in/document/9298212
+
+some other LINKS:
+1) nic: https://www.youtube.com/watch?v=06TE_U21FK4
+2) nic: https://www.youtube.com/watch?v=H7cGq0xIHbc
+3) nic: https://www.youtube.com/watch?v=SSW9LzOJSus
+4) https://learnopencv.com/ai-fitness-trainer-using-mediapipe/
+5) https://github.com/spmallick/learnopencv/tree/master/AI-Fitness-Trainer-Using-MediaPipe-Analyzing-Squats
+
