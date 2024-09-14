@@ -1,0 +1,7 @@
+mediapipe
+opencv-python
+pyaudio
+openai==0.28
+gtts
+pyttsx3
+numpy
